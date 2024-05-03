@@ -1,14 +1,3 @@
-/**
- * ===================== NOTES =====================
- * 1. You can use the quotes array to display a random quote on the page
- * 2. In case you want to pursue the extra credit, you can use the external API to fetch a random quote.
- *  To do that, you can use the fetchData function provided below.
- * 3. Feel free to modify the code as you see fit.
- * 4. Use your creativity to make the page look good and unique.
- * 5. If you want to add more features, you can do so. This will be a plus point.
- */
-
-
 // Feel free to modify or add to the quotes array
 const quotes = [
     {

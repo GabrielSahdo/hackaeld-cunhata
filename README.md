@@ -26,3 +26,9 @@ Personalize the interface as you wish. It's important that the interface is user
 
 ### Code Quality (15%)
 - Well-structured and commented JavaScript code (even if basic).
+
+## Helpful Links
+- https://expressjs.com/
+- https://developer.mozilla.org/en-US/docs/Web/API/fetch
+- https://forismatic.com/en/api/
+- https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous/Promises
